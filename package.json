@@ -1,0 +1,18 @@
+{
+  "name": "k2p3-to-do-list",
+  "version": "1.0.0",
+  "description": "a to-do list",
+  "main": "main.js",
+  "type": "module",
+  "bin": {
+    "k2p3-to-do-list": "main.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
